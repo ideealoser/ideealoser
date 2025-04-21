@@ -2,5 +2,5 @@
 
 <div align="center">
   <h2>不安</h2>
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,discordjs,vscode,cpp,cs" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,vscode,cpp,cs" />
 </div>
