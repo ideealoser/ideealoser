@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0](https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF)"/>
 
 <div align="center">
   <h2>不安</h2>
